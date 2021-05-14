@@ -23,14 +23,14 @@ cat ./run.sh
 ## Structure
 ```
 |---src                 					: source code directory
-	|---main 								: main source code
+	|---main 						: main source code
 		|---java 							
 			|---com.dungns.logic 			: logical package
 			|---com.dungns.restservice 		: web services controller package
-		|---resource 						: project's resource. Empty.
-	|---test 								: test source code. Empty.
-|---target 									: built libraries.
-|---diagrams 								: application's flow descriptions.
-|---data.txt 								: data stored file.
-|---run.sh 									: application runner.
+		|---resource 					: project's resource. Empty.
+	|---test 						: test source code. Empty.
+|---target 							: built libraries.
+|---diagrams 							: application's flow descriptions.
+|---data.txt 							: data stored file.
+|---run.sh 							: application runner.
 ```
