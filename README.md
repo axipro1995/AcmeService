@@ -34,3 +34,7 @@ cat ./run.sh
 |---data.txt 							: data stored file.
 |---run.sh 							: application runner.
 ```
+
+## * Further development
+- Replace file storing by database storing.
+- Install a reverse proxy for run multiple processes in Active-StandBy mode.
